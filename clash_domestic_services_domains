@@ -1,0 +1,343 @@
+payload:
+
+# --- Mainland China Available --
+
+# >>rixCloud
+  - 'doh.rixcloud.dev'
+  - '+.rixcloudstatus.com'
+  - '+.rixcloudstatus.io'
+  - '+.rixcloud.fail'
+
+# >> 360
+  - '+.qhimg.com'
+  - '+.qhres.com'
+
+# >> Akamai
+  - '+.akadns.net'
+
+# >> Alibaba
+  - '+.alibaba.com'
+  - '+.alicdn.com'
+  - '+.alikunlun.com'
+  - '+.alipay.com'
+  - '+.amap.com'
+  - '+.autonavi.com'
+  - '+.dingtalk.com'
+  - '+.mxhichina.com'
+  - '+.soku.com'
+  - '+.taobao.com'
+  - '+.tmall.com'
+  - '+.tmall.hk'
+  - '+.xiami.com'
+  - '+.xiami.net'
+  - '+.ykimg.com'
+  - '+.youku.com'
+
+
+# >> Apple
+  - '+.icloud.com.cn'
+
+# >> Baidu
+  - '+.baidu.com'
+  - '+.baidubcr.com'
+  - '+.bdstatic.com'
+  - '+.yunjiasu-cdn.net'
+
+# >> bilibili
+  - '+.acg.tv'
+  - '+.acgvideo.com'
+  - '+.biliapi.com'
+  - '+.biliapi.net'
+  - '+.bilibili.cn'
+  - '+.bilibili.com'
+  - '+.bilibili.tv'
+  - '+.bilivideo.com'
+  - '+.hdslb.com'
+
+# >> Blizzard
+  - '+.battle.net'
+  - '+.blizzard.com'
+  - 'blzddist1-a.akamaihd.net'
+
+# >> ByteDance
+  - '+.bytecdn.cn'
+  - '+.feiliao.com'
+  - '+.iesdouyin.com'
+  - '+.pstatp.com'
+  - '+.snssdk.com'
+  - '+.toutiao.com'
+
+# > CCTV
+  - '+.cctv.com'
+  - '+.cctvpic.com'
+  - '+.livechina.com'
+
+# >> ChinaNet
+  - '+.189.cn'
+  - '+.21cn.com'
+
+# > DandanZan
+  - '+.343480.com'
+  - '+.baduziyuan.com'
+  - '+.com-hs-hkdy.com'
+  - '+.czybjz.com'
+  - '+.dandanzan.com'
+  - '+.fjhps.com'
+  - '+.kuyunbo.club'
+
+# > DiDi
+  - '+.didialift.com'
+  - '+.didiglobal.com'
+  - '+.udache.com'
+
+# >> HunanTV
+  - '+.hitv.com'
+  - '+.mgtv.com'
+
+# >> IP Query
+  - 'ip.bjango.com'
+  - '+.ip-cdn.com'
+  - '+.ip.cn'
+  - '+.ip.la'
+  - '+.ipip.net'
+  - '+.ipv6-test.com'
+  - '+.test-ipv6.com'
+  - '+.whatismyip.com'
+
+# >> iQiyi
+  - '+.71.am.com'
+  - '+.iqiyi.com'
+  - '+.iqiyipic.com'
+
+# >> JD
+  - '+.360buyimg.com'
+  - '+.jd.com'
+  - '+.jd.hk'
+  - '+.jdpay.com'
+
+# > Kingsoft
+  - '+.iciba.com'
+  - '+.ksosoft.com'
+
+# >> Meitu
+  - '+.meipai.com'
+  - '+.meitu.com'
+  - '+.meitudata.com'
+  - '+.meitustat.com'
+
+# >> MI
+  - '+.duokan.com'
+  - '+.mi-img.com'
+  - '+.mifile.cn'
+  - '+.miui.com'
+  - '+.miwifi.com'
+  - '+.xiaomi.com'
+
+# >> Microsoft
+  - 'officecdn-microsoft-com.akamaized.net'
+  - '+.microsoft.com'
+  - '+.microsoftstore.com.cn'
+  - '+.msecnd.net'
+  - '+.msftconnecttest.com'
+  - '+.msftncsi.com'
+  - '+.outlook.com'
+  - '+.s-microsoft.com'
+  - '+.sfx.ms'
+  - '+.sharepoint.com'
+  - '+.visualstudio.com'
+  - '+.windows.com'
+  - '+.windowsupdate.com'
+
+# Rainway
+  - 'cya.gg'
+  - 'ipv4.rainway.com'
+  - 'ipv6.rainway.com'
+
+# >> NetEase
+  - '+.126.net'
+  - '+.127.net'
+  - '+.163.com'
+  - '+.163yun.com'
+  - '+.lofter.com'
+  - '+.netease.com'
+  - '+.ydstatic.com'
+
+
+# >> Sina
+  - '+.sina.com'
+  - '+.weibo.cn'
+  - '+.weibo.com'
+  - '+.weibocdn.com'
+
+# >> Sohu
+  - '+.itc.cn'
+  - '+.sohu-inc.com'
+  - '+.sohu.com'
+  - '+.sohu.com.cn'
+  - '+.sohucs.com'
+  - '+.v-56.com'
+
+# > Sogo
+  - '+.sogo.com'
+  - '+.sogou.com'
+  - '+.sogoucdn.com'
+
+# >> Stream
+  - '+.jstarkan.com'
+
+# >> Tencent
+  - 'vi.l.qq.com'
+  - '+.dns.pub'
+  - '+.doh.pub'
+
+# >> TeslaMap
+  - '+.52tesla.com'
+
+  - '+.gtimg.com'
+  - '+.idqqimg.com'
+  - '+.igamecj.com'
+  - '+.myapp.com'
+  - '+.myqcloud.com'
+  - '+.qpic.cn'
+  - '+.qq.com'
+  - '+.tencent-cloud.net'
+  - '+.tencent.com'
+
+
+# >> YYeTs
+  - '+.jstucdn.com'
+  - '+.zimuzu.io'
+  - '+.zimuzu.tv'
+  - '+.zmz2019.com'
+  - '+.zmzapi.com'
+  - '+.zmzapi.net'
+  - '+.zmzfile.com'
+
+
+# > Content Delivery Network
+  - '+.ccgslb.com'
+  - '+.ccgslb.net'
+  - '+.chinanetcenter.com'
+  - '+.meixincdn.com'
+  - '+.ourdvs.com'
+  - '+.staticdn.net'
+  - '+.wangsu.com'
+
+# >> Others
+  - 'cn.download.nvidia.com'
+  - '+.360in.com'
+  - '+.40017.cn'
+  - '+.51ym.me'
+  - '+.8686c.com'
+  - '+.abchina.com'
+  - '+.accuweather.com'
+  - '+.aicoinstorge.com'
+  - '+.air-matters.com'
+  - '+.air-matters.io'
+  - '+.aixifan.com'
+  - '+.amd.com'
+  - '+.b612.net'
+  - '+.bdatu.com'
+  - '+.beitaichufang.com'
+  - '+.bemanicn.cc'
+  - '+.bjango.com'
+  - '+.booking.com'
+  - '+.bstatic.com'
+  - '+.cailianpress.com'
+  - '+.camera360.com'
+  - '+.chinaso.com'
+  - '+.chua.pro'
+  - '+.chuimg.com'
+  - '+.chunyu.mobi'
+  - '+.chushou.tv'
+  - '+.cmbchina.com'
+  - '+.cmbimg.com'
+  - '+.cmvideo.cn'
+  - '+.ctrip.com'
+  - '+.dfcfw.com'
+  - '+.dida365.com'
+  - '+.docschina.org'
+  - '+.douban.com'
+  - '+.doubanio.com'
+  - '+.douyu.com'
+  - '+.douyucdn.cn'
+  - '+.dxycdn.com'
+  - '+.dytt8.net'
+  - '+.eastmoney.com'
+  - '+.eudic.net'
+  - '+.feng.com'
+  - '+.fengkongcloud.com'
+  - '+.frdic.com'
+  - '+.futu5.com'
+  - '+.futunn.com'
+  - '+.geilicdn.com'
+  - '+.getpricetag.com'
+  - '+.gifshow.com'
+  - '+.godic.net'
+  - '+.hicloud.com'
+  - '+.hongxiu.com'
+  - '+.hostbuf.com'
+  - '+.huxiucdn.com'
+  - '+.huya.com'
+  - '+.ikea.cn'
+  - '+.infinitynewtab.com'
+  - '+.ithome.com'
+  - '+.java.com'
+  - '+.jidian.im'
+  - '+.kaiyanapp.com'
+  - '+.kaspersky-labs.com'
+  - '+.keepcdn.com'
+  - '+.kkmh.com'
+  - '+.licdn.com'
+  - '+.linkedin.com'
+  - '+.loli.net'
+  - '+.luojilab.com'
+  - '+.maoyan.com'
+  - '+.maoyun.tv'
+  - '+.meituan.com'
+  - '+.meituan.net'
+  - '+.mobike.com'
+  - '+.mubu.com'
+  - '+.myzaker.com'
+  - '+.nim-lang-cn.org'
+  - '+.nvidia.com'
+  - '+.paypal.com'
+  - '+.paypalobjects.com'
+  - '+.qdaily.com'
+  - '+.qidian.com'
+  - '+.qyer.com'
+  - '+.qyerstatic.com'
+  - '+.raychase.net'
+  - '+.ronghub.com'
+  - '+.ruguoapp.com'
+  - '+.s-reader.com'
+  - '+.sankuai.com'
+  - '+.scomper.me'
+  - '+.seafile.com'
+  - '+.sm.ms'
+  - '+.smzdm.com'
+  - '+.snapdrop.net'
+  - '+.snwx.com'
+  - '+.sogou.com'
+  - '+.sspai.com'
+  - '+.takungpao.com'
+  - '+.teamviewer.com'
+  - '+.tianyancha.com'
+  - '+.udacity.com'
+  - '+.uning.com'
+  - '+.vmware.com'
+  - '+.weather.com'
+  - '+.weico.cc'
+  - '+.weidian.com'
+  - '+.xiachufang.com'
+  - '+.ximalaya.com'
+  - '+.xinhuanet.com'
+  - '+.xmcdn.com'
+  - '+.yangkeduo.com'
+  - '+.yinxiang.com'
+  - '+.zhangzishi.cc'
+  - '+.zhihu.com'
+  - '+.zhimg.com'
+  - '+.zhuihd.com'
+
+# --- End of Mainland China Available Section ---

@@ -1,0 +1,21 @@
+payload:
+
+# >> Apple
+  - '+.apple'
+  - '+.apple.com'
+  - '+.aaplimg.com'
+  - '+.api-glb-sea.smoot.apple.com'
+  - '+.apple-cloudkit.com'
+  - '+.apple-dns.net'
+  - '+.apple.*'
+  - '+.apple.*.*'
+  - '+.appstore.com'
+  - '+.cdn-apple.com'
+  - '+.crashlytics.com'
+  - '+.icloud-content.com'
+  - '+.icloud.com'
+  - '+.itunes.apple.com'
+  - '+.lookup-api.apple.com'
+  - '+.me.com'
+  - '+.mzstatic.com'
+  - '+.www-cdn.icloud.com.akadns.net'
