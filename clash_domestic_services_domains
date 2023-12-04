@@ -338,4 +338,6 @@ payload:
   - '+.zhimg.com'
   - '+.zhuihd.com'
 
+  - '+.cloudapp.chinacloudapi.cn'
+
 # --- End of Mainland China Available Section ---
